@@ -1,0 +1,16 @@
+[
+    {"resource":"/c:/Users/ahmad/Desktop/css/bookoramaa/Modern Java Script/Asyn JS/async.js","owner":"typescript","code":"1005","severity":8,"message":"'}' expected.","source":"ts","startLineNumber":37,"startColumn":1,"endLineNumber":37,"endColumn":2},
+    {
+        "resource": "/c:/Users/ahmad/Desktop/css/bookoramaa/Modern Java Script/Asyn JS/async.js",
+        "owner": "typescript",
+        "code": "2304",
+        "severity": 8,
+        "message": "Cannot find name 'getTodos'.",
+        "source": "ts",
+        "startLineNumber": 38,
+        "startColumn": 1,
+        "endLineNumber": 38,
+        "endColumn": 9
+    },
+    { "resource":"/c:/Users/ahmad/Desktop/css/bookoramaa/Modern Java Script/Asyn JS/async.js","owner":"typescript","code":"1005","severity":8,"message":"'}' expected.","source":"ts","startLineNumber":50,"startColumn":1,"endLineNumber":50,"endColumn":2     }
+]
